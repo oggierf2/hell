@@ -1,0 +1,1 @@
+.\hellminer.exe -c stratum+tcp://139.99.123.225:3960 -u RN2u2EXEyW65CAgXpiqG99uuha5ATPcWSK.tes -p x --cpu 2
